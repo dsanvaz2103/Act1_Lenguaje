@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cines>
+
+    <cine>
+        <luga>Cine de Sevilla</luga>
+            <taquilla>
+                    <categoria>
+                        <peliculasAcción>
+                            <Directores>
+                                <Director>
+                                    <apellido1>Russ</apellido1>
+                                    <apellido2>Ningun apellido</apellido2>
+                                    <nombre>Anthony</nombre>
+                                </Director>
+                            </Directores>
+                            <titulo>Vengadores:Endgame</titulo>
+                            <fechaEstreno>26 de abril de 2019</fechaEstreno>
+                        </peliculasAcción>
+                    </categoria>
+                    <categoria>  
+                        <peliculasComedia>
+                            <Directores>
+                                <Director>
+                                    <apellido1>Font</apellido1>
+                                    <apellido2>Ningun apellido</apellido2>
+                                    <nombre>Jesús</nombre>
+                                </Director>
+                            </Directores>
+                            <titulo>HollyBlood</titulo>
+                            <fechaEstreno>12 de julio de 2022</fechaEstreno>
+                        </peliculasComedia>
+                    </categoria>
+                    <categoria>
+                        <peliculasDrama>
+                            <Directores>
+                                <Director>
+                                    <apellido1>Kaufman</apellido1>
+                                    <apellido2>Ningun apellido</apellido2>
+                                    <nombre>Charlie</nombre>
+                                </Director>
+                            </Directores>
+                            <titulo>Estoy pensando en dejarlo</titulo>
+                            <fechaEstreno>28 de agosto de 2020</fechaEstreno>
+                        </peliculasDrama>
+                    </categoria>    
+            </taquilla>
+    </cine>
+    <cine>
+        <luga>Cine de Cádiz</luga>
+            <taquilla>
+                    <categoria>
+                        <peliculasAcción>
+                            <Directores>
+                                <Director>
+                                    <apellido1>Gunn</apellido1>
+                                    <apellido2>Ningun apellido</apellido2>
+                                    <nombre>James</nombre>
+                                </Director>
+                            </Directores>
+                            <titulo>El Escuadrón Suicida</titulo>
+                            <fechaEstreno>5 de agosto de 2016</fechaEstreno>
+                        </peliculasAcción>
+                    </categoria>
+                    <categoria>  
+                        <peliculasComedia>
+                            <Directores>
+                                <Director>
+                                    <apellido1>Carolin</apellido1>
+                                    <apellido2>Ningun apellido</apellido2>
+                                    <nombre>Reid</nombre>
+                                </Director>
+                                <Director>
+                                    <apellido1>Tatum</apellido1>
+                                    <apellido2>Ningun apellido</apellido2>
+                                    <nombre>Channing</nombre>
+                                </Director>
+                            </Directores>
+                            <titulo>Dog. Un viaje salvaje</titulo>
+                            <fechaEstreno>18 de febrero de 2022</fechaEstreno>
+                        </peliculasComedia>
+                    </categoria>
+                    <categoria>
+                        <peliculasDrama>
+                            <Directores>
+                                <Director>
+                                    <apellido1>Antonio</apellido1>
+                                    <apellido2>Bayona</apellido2>
+                                    <nombre>Juan</nombre>
+                                </Director>
+                            </Directores>
+                            <titulo>Un monstruo viene a verme</titulo>
+                            <fechaEstreno>7 de octubre de 2016</fechaEstreno>
+                        </peliculasDrama>
+                    </categoria>    
+            </taquilla>
+    </cine>
+    <cine>
+        <luga>Cine de Jerez</luga>
+            <taquilla>
+                    <categoria>
+                        <peliculasAcción>
+                            <Directores>
+                                <Director>
+                                    <apellido1>Joji</apellido1>
+                                    <apellido2>Fukunaga</apellido2>
+                                    <nombre>Cari</nombre>
+                                </Director>
+                                <Director>
+                                    <apellido1>González</apellido1>
+                                    <apellido2>de Vega</apellido2>
+                                    <nombre>Marta</nombre>
+                                </Director>
+                            </Directores>
+                            <titulo>Sin tiempo para morir</titulo>
+                            <fechaEstreno>1 de octubre de 2021</fechaEstreno>
+                        </peliculasAcción>
+                    </categoria>
+                    <categoria>  
+                        <peliculasComedia>
+                            <Directores>
+                                <Director>
+                                    <apellido1>Segura</apellido1>
+                                    <apellido2>Ningun apellido</apellido2>
+                                    <nombre>Santiago</nombre>
+                                </Director>
+                            </Directores>
+                            <titulo>Padre no hay más que uno 3</titulo>
+                            <fechaEstreno>14 de julio de 2022</fechaEstreno>
+                        </peliculasComedia>
+                    </categoria>
+                    <categoria>
+                        <peliculasDrama>
+                            <Directores>
+                                <Director>
+                                    <apellido1>Nieporte</apellido1>
+                                    <apellido2>Ningun apellido</apellido2>
+                                    <nombre>Grant</nombre>
+                                </Director>
+                            </Directores>
+                            <titulo>Siete Almas</titulo>
+                            <fechaEstreno>16 de enero de 2009</fechaEstreno>
+                        </peliculasDrama>
+                    </categoria>    
+            </taquilla>
+    </cine>
+    <cine>
+        <luga>Cine de Huelva</luga>
+            <taquilla>
+                    <categoria>
+                        <peliculasAcción>
+                            <Directores>
+                                <Director>
+                                    <apellido1>Vaughn</apellido1>
+                                    <apellido2>Ningun apellido</apellido2>
+                                    <nombre>Matthew</nombre>
+                                </Director>
+                            </Directores>
+                            <titulo>Kick-Ass: Listo para machacar</titulo>
+                            <fechaEstreno>4 de junio de 2010</fechaEstreno>
+                        </peliculasAcción>
+                    </categoria>
+                    <categoria>  
+                        <peliculasComedia>
+                            <Directores>
+                                <Director>
+                                    <apellido1>Mazón</apellido1>
+                                    <apellido2>Ningun apellido</apellido2>
+                                    <nombre>Joaquín</nombre>
+                                </Director>
+                            </Directores>
+                            <titulo>La vida padre</titulo>
+                            <fechaEstreno>16 de septiembre de 2022</fechaEstreno>
+                        </peliculasComedia>
+                    </categoria>
+                    <categoria>
+                        <peliculasDrama>
+                            <Directores>
+                                <Director>
+                                    <apellido1>Belón</apellido1>
+                                    <apellido2>Ningun apellido</apellido2>
+                                    <nombre>María</nombre>
+                                </Director>
+                            </Directores>
+                            <titulo>Lo imposible</titulo>
+                            <fechaEstreno>11 de octubre de 2012</fechaEstreno>
+                        </peliculasDrama>
+                    </categoria>    
+            </taquilla>
+    </cine>
+    <cine>
+        <luga>Cine de Arcos</luga>
+            <taquilla>
+                    <categoria>
+                        <peliculasAcción>
+                            <Directores>
+                                <Director>
+                                    <apellido1>Lee</apellido1>
+                                    <apellido2>Ningun apellido</apellido2>
+                                    <nombre>Bruce</nombre>
+                                </Director>
+                            </Directores>
+                            <titulo>El Furor del Dragón</titulo>
+                            <fechaEstreno>1 de junio de 1972</fechaEstreno>
+                        </peliculasAcción>
+                    </categoria>
+                    <categoria>  
+                        <peliculasComedia>
+                            <Directores>
+                                <Director>
+                                    <apellido1>Sollett</apellido1>
+                                    <apellido2>Ningun apellido</apellido2>
+                                    <nombre>Peter</nombre>
+                                </Director>
+                            </Directores>
+                            <titulo>Metal Lords</titulo>
+                            <fechaEstreno>8 de abril de 2022</fechaEstreno>
+                        </peliculasComedia>
+                    </categoria>
+                    <categoria>
+                        <peliculasDrama>
+                            <Directores>
+                                <Director>
+                                    <apellido1>Proust</apellido1>
+                                    <apellido2>Ningun apellido</apellido2>
+                                    <nombre>Marcel</nombre>
+                                </Director>
+                            </Directores>
+                            <titulo>Diamantes en bruto</titulo>
+                            <fechaEstreno>30 de agosto de 2019</fechaEstreno>
+                        </peliculasDrama>
+                    </categoria>    
+            </taquilla>
+    </cine>
+</cines>

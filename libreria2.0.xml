@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <biblioteca>
+        <l1:generos xmlns:l1="http://www.amazon.com/l1" xmlns:l2="http://www.aliexpres.com/l2">
+            <l1:genero>
+                <l1:drama></l1:drama>
+            </l1:genero>
+            <l2:genero>
+                <l2:Accion></l2:Accion>
+            </l2:genero>
+            <libro>
+                <autores>
+                    <autor>
+                        <apellido1>García</apellido1>
+                        <apellido2>Márquez</apellido2>
+                        <nombre>Gabriel  </nombre>
+                    </autor>
+                </autores>
+                <l1:titulo>Cien años de soledad </l1:titulo>
+                <editorial>editorial Sudamericana </editorial>
+                <fechaPublicacion>mayo de 1967</fechaPublicacion>
+                <ISBN>9789510445365</ISBN>
+            </libro>
+            <libro>
+                <autores>
+                    <autor>
+                        <apellido1>Ronald</apellido1>
+                        <apellido2>Reuel</apellido2>
+                        <apellido3>Tolkien</apellido3>
+                        <nombre>John </nombre>
+                    </autor>
+                </autores>
+                <l2:titulo>El señor de los anillos</l2:titulo>
+                <editorial>Editorial Tirant Lo Blanch</editorial>
+                <fechaPublicacion>29 de julio de 1954</fechaPublicacion>
+                <ISBN>9788845292613 </ISBN>
+            </libro>
+            <libro>
+                <autores>
+                    <autor>
+                        <apellido1>Proust</apellido1>
+                        <apellido2>Ninguno</apellido2>
+                        <nombre>Marcel </nombre>
+                    </autor>
+                </autores>
+                <titulo>En busca del tiempo perdido</titulo>
+                <editorial>Sin editorial</editorial>
+                <fechaPublicacion>14 de noviembre de 1913</fechaPublicacion>
+                <ISBN>3518456431</ISBN>
+            </libro>
+            <libro>
+                <autores>
+                    <autor>
+                        <apellido1>de Cervantes</apellido1>
+                        <apellido2>Ningun apellido</apellido2>
+                        <nombre>Miguel </nombre>
+                    </autor>
+                </autores>
+                <l1:titulo>Don Quijote de la Mancha</l1:titulo>
+                <editorial>Urbano Manini</editorial>
+                <fechaPublicacion>1605</fechaPublicacion>
+                <ISBN>9788408061052</ISBN>
+            </libro>
+            <libro>
+                <autores>
+                    <autor>
+                        <apellido1>Wilde</apellido1>
+                        <apellido2>Ningun apellido</apellido2>
+                        <nombre>Oscar</nombre>
+                    </autor>
+                </autores>
+                <l2:titulo>El retrato de Dorian Gray</l2:titulo>
+                <editorial>Editorial Alma</editorial>
+                <fechaPublicacion>julio de 1890</fechaPublicacion>
+                <ISBN>9786555980004</ISBN>
+            </libro>
+            <libro>
+                <autores>
+                    <autor>
+                        <apellido1>Faulkner</apellido1>
+                        <apellido2>Ningun apellido</apellido2>
+                        <nombre>William</nombre>
+                    </autor>
+                </autores>
+                <titulo>El ruido y la furia</titulo>
+                <editorial>ALIANZA EDITORIAL</editorial>
+                <fechaPublicacion>1929</fechaPublicacion>
+                <ISBN>9780393025460</ISBN>
+            </libro>
+            <libro>
+                <autores>
+                    <autor>
+                        <apellido1>Steinbeck</apellido1>
+                        <apellido2>Ningun apellido</apellido2>
+                        <nombre>John</nombre>
+                    </autor>
+                </autores>
+                <l1:titulo>Las uvas de la ira</l1:titulo>
+                <editorial>ALIANZA EDITORIAL</editorial>
+                <fechaPublicacion>1939</fechaPublicacion>
+                <ISBN>9788491813590</ISBN>
+            </libro>
+            <libro>
+                <autores>
+                    <autor>
+                        <apellido1>Tolstói</apellido1>
+                        <apellido2>Ningun apellido</apellido2>
+                        <nombre>León</nombre>
+                    </autor>
+                </autores>
+                <titulo>Guerra y paz</titulo>
+                <editorial>Alba Editorial</editorial>
+                <fechaPublicacion>1867</fechaPublicacion>
+                <ISBN>9788412664812</ISBN>
+            </libro>
+            <libro>
+                <autores>
+                    <autor>
+                        <apellido1>Maquet</apellido1>
+                        <apellido2>Ningun apellido</apellido2>
+                        <nombre>Auguste</nombre>
+                    </autor>
+                    <autor>
+                        <apellido1>Dumas</apellido1>
+                        <apellido2>Ningun apellido</apellido2>
+                        <nombre>Alejandro</nombre>
+                    </autor>
+                </autores>
+                <l1:titulo>El conde de Montecristo</l1:titulo>
+                <editorial>Editorial Porrúa S.A. de C.V.</editorial>
+                <fechaPublicacion>1844</fechaPublicacion>
+                <ISBN>9788412664850</ISBN>
+            </libro>
+            <libro>
+                <autores>
+                    <autor>
+                        <apellido1>Collins</apellido1>
+                        <apellido2>Ningun apellido</apellido2>
+                        <nombre>Suzanne</nombre>
+                    </autor>
+                </autores>
+                <l2:titulo>Los juegos del hambre</l2:titulo>
+                <editorial>Editorial Molino</editorial>
+                <fechaPublicacion>14 de septiembre de 2008</fechaPublicacion>
+                <ISBN>9780545091022</ISBN>
+            </libro>
+        </l1:generos>
+    </biblioteca>
